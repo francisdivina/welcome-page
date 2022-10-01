@@ -1,0 +1,12 @@
+<html lang="en">
+<head> 
+	<meta charset="UTF-8">
+	<tile>My first page</tile> 
+	</head>
+	<body>
+		<main><p>This is my main code</main>
+		<footer>
+		<p>Google Course - practice html5</p> 
+		</footer> 	
+	</body>
+	</html>
